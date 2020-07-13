@@ -1,14 +1,16 @@
-# Zipline Order Fulfilment Challenge
+# Zipline Fulfilment Order Challenge
 
 The document details how to setup and navigate the application.
 
 #### How to Setup the Frontend:
 
-Refer to the README file inside the `frontend` folder.
+Refer to the README file inside the `[frontend]` folder.
+[frontend]: https://github.com/hopeogbons/zipline-fulfilment-order-challenge/tree/master/nest/nest/frontend/README.md
 
 #### How to Setup the Backend:
 
-Refer to the README file inside the `backend` folder.
+Refer to the README file inside the `[backend]` folder.
+[backend]: https://github.com/hopeogbons/zipline-fulfilment-order-challenge/tree/master/nest/nest/backend/README.md
 
 ## How to Navigator the Application Menu
 
